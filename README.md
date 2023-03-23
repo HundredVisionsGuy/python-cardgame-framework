@@ -17,3 +17,6 @@ A python framework for making a text-based OOP card game for my P2 and P3 studen
 * Shuffle mechanic
 * Deal mechanic
 * Game mechanics
+
+## Changelog
+* 3/23/23 - Adding initial Card class
